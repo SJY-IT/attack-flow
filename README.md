@@ -11,8 +11,8 @@ make the same updates there.
 Attack Flow is a language for describing how cyber adversaries combine and sequence various offensive
 techniques to achieve their goals. The project helps defenders and leaders understand how adversaries operate
 and improve their own defensive posture. This project is created and maintained by the [MITRE Engenuity Center
-for Threat-Informed Defense](https://ctid.mitre-engenuity.org/) in futherance of our mission to advance the
-start of the art and and the state of the practice in threat-informed defense globally. The project is funded
+for Threat-Informed Defense](https://ctid.mitre-engenuity.org/) in furtherance of our mission to advance the
+start of the art and the state of the practice in threat-informed defense globally. The project is funded
 by our [research participants](https://ctid.mitre-engenuity.org/our-work/attack-flow/#RESEARCH-PARTICIPANTS).
 
 **Table Of Contents:**
@@ -44,7 +44,7 @@ advance threat-informed defense:
 - **Review the language specification, use the builder to create some flows, and tell us what you think.** We
   welcome your review and feedback on the data model and our methodology.
 - **Help us prioritize additional example flows to create.** Let us know what examples you would like to
-  turned into an Attack Flow. Your input will help us prioritize how we expand our corpus.
+  turn into an Attack Flow. Your input will help us prioritize how we expand our corpus.
 - **Share your use cases.** We are interested in developing additional tools and resources to help the
   community understand and make threat-informed decisions in their risk management programs. If you have ideas
   or suggestions, we consider them as we explore additional research projects.
